@@ -42,7 +42,7 @@ All three models exhibit similar performance, with the Random Forest Model sligh
 
 In terms of False Negatives, the Decision Tree Model demonstrates the lowest count. Given that False Negatives present a more significant concern for both the NGO and the community, <b> I have chosen the Decision Tree Model as the final choice. </b> This decision ensures a balance between accuracy and minimizing False Negatives.
 
-![Confusion Matrix](images/confusion_matrix.jpg)
+![Confusion Matrix](images/confusion_matrix.png)
 
 ## Results and Recommendations
 
